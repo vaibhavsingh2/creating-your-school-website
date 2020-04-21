@@ -1,0 +1,29 @@
+.color{
+    background-color:#F3F3F3
+}
+
+.elements{
+    display:flex;
+    justify-content:space-evenly;
+border:solid;
+}
+
+.elements img{
+    opacity: 0;
+}
+.things{
+    background-color:#2962B0
+}
+
+.elements:hover img{
+    display: flex;
+    opacity: 1;
+}
+
+.ids{
+border: solid;
+margin:60px;
+display: flex;
+justify-content: space-around;    
+}
+
